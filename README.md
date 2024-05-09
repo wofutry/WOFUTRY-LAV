@@ -1,0 +1,3 @@
+# lava-auto-committe
+
+test.
